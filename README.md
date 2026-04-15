@@ -93,6 +93,6 @@ If not run as admin, the app will run in **simulation mode** (no real blocking).
 
 ---
 
-## ⭐ Project Goal
+## Project Goal
 
 To reduce distractions and improve focus using AI-based behavior tracking.
